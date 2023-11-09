@@ -29,7 +29,7 @@ Your use of this tool must align with ethical and legal standards. The creators 
 
 Please ensure responsible and ethical usage of this tool.
 ***
-![GUI](images/img.jpg)
+![GUI](images/img1.jpg)
 ***
 
 **Author: OrbitX.Space**
