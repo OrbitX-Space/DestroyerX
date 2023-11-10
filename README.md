@@ -25,7 +25,7 @@ By using this tool, you agree to:
 
 6. Seek proper authorization and consent for security assessments on systems not owned by you.
 
-Your use of this tool must align with ethical and legal standards. The creators of this tool disclaim any responsibility for misuse or unlawful activities associated with its use.
+Your use of this tool must align with ethical and legal standards. The author/creator of this tool disclaim any responsibility for misuse or unlawful activities associated with its use.
 
 Please ensure responsible and ethical usage of this tool.
 ***
