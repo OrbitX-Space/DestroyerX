@@ -28,6 +28,7 @@ By using this tool, you agree to:
 Your use of this tool must align with ethical and legal standards. The author/creator of this tool disclaim any responsibility for misuse or unlawful activities associated with its use.
 
 Please ensure responsible and ethical usage of this tool.
+
 **Screenshot:**
 ![GUI](images/img1.png)
 ***
