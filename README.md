@@ -30,6 +30,7 @@ Your use of this tool must align with ethical and legal standards. The author/cr
 Please ensure responsible and ethical usage of this tool.
 
 **Screenshot:**
+
 ![GUI](images/img1.png)
 ***
 
