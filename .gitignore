@@ -1,3 +1,8 @@
+# Ignore the images directory
 images/
-LICENSE/
-README.md/
+
+# Ignore the LICENSE file
+LICENSE
+
+# Ignore the README.md file
+README.md
