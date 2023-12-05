@@ -19,11 +19,9 @@ By using this tool, you agree to:
 
 3. Accept full responsibility for any misuse or illegal actions associated with this tool.
 
-4. Avoid using this tool for unauthorized access to systems, networks, or data.
+4. Not share, distribute, or sell this tool to individuals likely to misuse it.
 
-5. Not share, distribute, or sell this tool to individuals likely to misuse it.
-
-6. Seek proper authorization and consent for security assessments on systems not owned by you.
+5. Seek proper authorization and consent for security assessments on systems not owned by you.
 
 Your use of this tool must align with ethical and legal standards. The author/creator of this tool disclaim any responsibility for misuse or unlawful activities associated with its use.
 
