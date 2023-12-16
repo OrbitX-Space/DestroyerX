@@ -25,7 +25,6 @@ By using this tool, you agree to:
 
 Your use of this tool must align with ethical and legal standards. The author/creator of this tool disclaim any responsibility for misuse or unlawful activities associated with its use.
 
-THIS WAS CREATED TO FOR FUN.
 
 **Screenshots:**
 
