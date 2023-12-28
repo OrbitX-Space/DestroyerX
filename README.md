@@ -5,7 +5,7 @@
 
 ## Description
 
-**Disclaimer:** 
+### Disclaimer:
 
 ⚠️ **Ethical Use Notice** ⚠️
 
