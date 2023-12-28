@@ -30,7 +30,7 @@ Your use of this tool must align with ethical and legal standards. The author/cr
 
 **Since there is nooooo way you are getting your data back**, you may need to install a **fresh copy of Windows** into your PC.
 
-→ Another way to try this tool is to use it in a **VirtualMachine**. Using it in your VM is the safest way to try it as it works in a seperate environment but not into your native Windows & hence won't be harming any of your data or PC. Learn more about VMs [here.](https://www.vmware.com/in/topics/glossary/content/virtual-machine.html#:~:text=How%20do%20virtual%20machines%20work,disk%20file%20and%20configuration%20file.)
+→ Another way to try this tool is to use it in a **VirtualMachine**. Using it in your VM is the safest way to try it as it works in a seperate environment but not into your native Windows & hence won't be harming any of your data or PC. Learn more about "how VMs work?" [here.](https://www.vmware.com/in/topics/glossary/content/virtual-machine.html#:~:text=How%20do%20virtual%20machines%20work,disk%20file%20and%20configuration%20file.)
 
 ## Screenshots:
 
