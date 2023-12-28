@@ -3,9 +3,7 @@
 <a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/GitHub-Passing-100000?style=flat&logo=GitHub&logoColor=white&labelColor=2b3838&color=2aae48'/></a>
 <a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/License-GNU-100000?style=flat&logo=GitHub&logoColor=white&labelColor=2b3838&color=c7ba00'/></a>
 
-***
-
-<Description>
+## Description
 
 **Disclaimer: Ethical Use Notice**
 
@@ -26,7 +24,7 @@ By using this tool, you agree to:
 Your use of this tool must align with ethical and legal standards. The author/creator of this tool disclaim any responsibility for misuse or unlawful activities associated with its use.
 
 
-**Screenshots:**
+## Screenshots:
 
 ![GUI](images/img1.png)
 ***
