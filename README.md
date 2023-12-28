@@ -4,7 +4,7 @@
 <a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/License-GNU-100000?style=flat&logo=GitHub&logoColor=white&labelColor=2b3838&color=c7ba00'/></a>
 
 ## Description
-Shutdowns your PC ∞ no. of times.
+Shutdowns your PC ∞ no. of times. It makes the user unaccessable to the PC since it shutdowns immmmmmediately when turned on.
 
 ### Disclaimer:
 
@@ -26,6 +26,10 @@ By using this tool, you agree to:
 
 Your use of this tool must align with ethical and legal standards. The author/creator of this tool disclaim any responsibility for misuse or unlawful activities associated with its use.
 
+## How to fix your PC:
+
+**Since there is nooooo way you are getting your data back**, you may need to install a **fresh copy of Windows** into your PC.
+→ Another way to try this tool is to use it in a **VirtualMachine**.
 
 ## Screenshots:
 
