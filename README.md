@@ -4,7 +4,7 @@
 <a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/License-GNU-100000?style=flat&logo=GitHub&logoColor=white&labelColor=2b3838&color=c7ba00'/></a>
 
 ## Description
-Shutdowns your PC for ∞ times.
+Shutdowns your PC ∞ no. of times.
 
 ### Disclaimer:
 
