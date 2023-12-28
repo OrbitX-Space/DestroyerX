@@ -29,7 +29,7 @@ Your use of this tool must align with ethical and legal standards. The author/cr
 ## How to fix your PC:
 
 **Since there is nooooo way you are getting your data back**, you may need to install a **fresh copy of Windows** into your PC.
-→ Another way to try this tool is to use it in a **VirtualMachine**.
+
 
 ## Screenshots:
 
