@@ -7,7 +7,7 @@
 
 **Disclaimer:** 
 
-⚠️**Ethical Use Notice**⚠️
+⚠️ **Ethical Use Notice** ⚠️
 
 This tool is provided for educational purposes and ethical use. Any form of unauthorized or malicious use is strongly discouraged.
 
