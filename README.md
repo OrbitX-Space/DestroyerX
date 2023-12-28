@@ -4,7 +4,7 @@
 <a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/License-GNU-100000?style=flat&logo=GitHub&logoColor=white&labelColor=2b3838&color=c7ba00'/></a>
 
 ## Description
-Shutdowns your PC ∞ no. of times. It makes the user unaccessable to the PC since it shutdowns immmmmmediately when turned on.
+Shutdowns your PC ∞ no. of times. It makes the user unaccessable to the PC, since it shutdowns immmmmmediately when turned on.
 
 ### Disclaimer:
 
