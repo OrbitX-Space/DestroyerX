@@ -6,7 +6,6 @@
 ## Description
 Shutdowns your PC for ∞ times.
 
-
 ### Disclaimer:
 
 ⚠️ **Ethical Use Notice** ⚠️
